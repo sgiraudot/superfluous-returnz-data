@@ -1,0 +1,6 @@
+data/locale.data filter=lfs diff=lfs merge=lfs -text
+data/sounds.data filter=lfs diff=lfs merge=lfs -text
+data/general.data filter=lfs diff=lfs merge=lfs -text
+data/images_animations.data filter=lfs diff=lfs merge=lfs -text
+data/images.data filter=lfs diff=lfs merge=lfs -text
+data/images_scenery.data filter=lfs diff=lfs merge=lfs -text

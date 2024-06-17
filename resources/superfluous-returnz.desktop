@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Superfluous Returnz
+Name[fr]=Superflu Riteurnz
+Comment="The unnecessary video game of a useless superhero"
+Comment[fr]="Le jeu vidéo inutile d'un superhéros qui ne sert à rien"
+Keywords="game;pointnclick;adventure"
+Keywords[fr]="jeu;pointnclick;aventure"
+Exec=superfluous-returnz
+Icon=superfluous-returnz
+Terminal=false
+Type=Application
+Categories=Game;AdventureGame;
+StartupNotify=false
